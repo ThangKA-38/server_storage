@@ -1,14 +1,17 @@
 [
     {
         "id":"1",
+        "image_path":"",
         "video_path":"video/Hitachi_Vantara.mp4"
     },
     {
         "id":"1",
+        "image_path":"",
         "video_path":"video/Download.mp4"
     },
     {
         "id":"1",
+        "image_path":"",
         "video_path":"video/Die_with_a_smile.mp4"
     }
 ]
